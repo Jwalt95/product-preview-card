@@ -1,0 +1,7 @@
+.body-style {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: rgb(231, 220, 220);
+}
